@@ -1,2 +1,2 @@
-# DSA-SHEET-LOVE-BABBAR
-This repo contains all 450 questions and their solutions of DSA Sheet by Love babbar
+# DSA PRACTICE
+This repo contains all DSA Questions I did.
